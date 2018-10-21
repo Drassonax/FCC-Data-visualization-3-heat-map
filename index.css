@@ -1,0 +1,11 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#tooltip {
+    position: absolute;
+    background-color: #f3f3f3;
+    padding: 5px;
+}
